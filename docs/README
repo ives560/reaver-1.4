@@ -40,6 +40,9 @@ INSTALLATION
 
 	Reaver is only supported on the Linux platform, requires the libpcap and libsqlite3 libraries, and 
 	can be built and installed by running:
+	
+		$sudo  apt-get install aircrack-ng
+		$sudo  apt-get install libpcap-dev sqlite3 libsqlite3-dev libpcap0.8-dev
 
 		$ ./configure
 		$ make
